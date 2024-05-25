@@ -4,7 +4,8 @@ Book Template is a starter template of [Zola][zola] with [book][book] theme, inc
 
 ## Quick Start
 
-[Create a new repository with using Book Template][use-book-template].
+1. [Create a new repository with using Book Template][use-book-template].
+2. Open a generated repository in [GitHub Codespaces][github-codespaces].
 
 ## Requirements
 
@@ -44,5 +45,6 @@ This template is licensed under [CC0][cc0].
 [github-pages]: https://pages.github.com/
 [dev-containers]: https://code.visualstudio.com/docs/devcontainers/containers
 [use-book-template]: https://github.com/new?template_name=book-template&template_owner=sakkke
+[github-codespaces]: https://github.com/features/codespaces
 [visual-studio-code]: https://code.visualstudio.com/
 [cc0]: https://creativecommons.org/public-domain/cc0/
