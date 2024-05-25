@@ -1,4 +1,4 @@
-# Book Template
+![book-template](https://socialify.git.ci/sakkke/book-template/image?font=Inter&name=1&theme=Light)
 
 Book Template is a starter template of [Zola][zola] with [book][book] theme, including automatic publishing feature to [GitHub Pages][github-pages].
 
