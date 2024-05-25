@@ -2,6 +2,10 @@
 
 Book Template is a starter template of [Zola][zola] with [book][book] theme, including automatic publishing feature to [GitHub Pages][github-pages].
 
+## Quick Start
+
+[Create a new repository with using Book Template][use-book-template].
+
 ## Requirements
 
 Please install the following requirements.
@@ -38,5 +42,6 @@ This template is licensed under [CC0][cc0].
 [zola]: https://www.getzola.org/
 [book]: https://github.com/getzola/book
 [github-pages]: https://pages.github.com/
+[use-book-template]: https://github.com/new?template_name=book-template&template_owner=sakkke
 [visual-studio-code]: https://code.visualstudio.com/
 [cc0]: https://creativecommons.org/public-domain/cc0/
