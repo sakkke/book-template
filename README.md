@@ -31,7 +31,12 @@ flowchart LR
 
 Please enable GitHub Pages in your GitHub repository settings.
 
+## License
+
+This template is licensed under [CC0][cc0].
+
 [zola]: https://www.getzola.org/
 [book]: https://github.com/getzola/book
 [github-pages]: https://pages.github.com/
 [visual-studio-code]: https://code.visualstudio.com/
+[cc0]: https://creativecommons.org/public-domain/cc0/
