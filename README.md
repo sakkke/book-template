@@ -1,11 +1,11 @@
 ![book-template](https://socialify.git.ci/sakkke/book-template/image?font=Inter&name=1&theme=Light)
 
-Book Template is a starter template of [Zola][zola] with [book][book] theme, including automatic publishing feature to [GitHub Pages][github-pages].  Contains [Dev Containers][dev-containers] battery.
+Book Template is a starter template of [Zola][zola] with [book][book] theme, including automatic publishing feature to [GitHub Pages][github-pages].  Contains [Dev Containers][dev-containers] battery.  Supports [GitHub Codespaces][github-codespaces].
 
 ## Quick Start
 
 1. [Create a new repository with using Book Template][use-book-template].
-2. Open a generated repository in [GitHub Codespaces][github-codespaces].
+2. Open a generated repository in GitHub Codespaces.
 
 ## Requirements
 
